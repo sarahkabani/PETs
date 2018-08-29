@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Sir Barksalot",
+    "species": "Dog",
+    "breed": "Golden Retriever",
+    "birthYear": "2017",
+    "photo": "images/sh2.jpg"
+  },
+  {
+    "name": "Sir Meowsalot",
+    "species": "Cat",
+    "breed": "British Shorthair",
+    "birthYear": "2016",
+    "photo": "images/hp.jpeg"
+  },
+  {
+    "name": "Kimba",
+    "species": "Dog",
+    "breed": "German Shepherd",
+    "birthYear": "2014",
+    "photo": "images/to.jpg"
+  },
+  {
+    "name": "Nile",
+    "species": "Cat",
+    "breed": "Dragon Li",
+    "birthYear": "2015",
+    "photo": "https://www.dogalize.com/wp-content/uploads/2017/03/Chinese-Li-Hua.jpg"
+  },
+  {
+    "name": "Alexander",
+    "species": "Dog",
+    "breed": "Unknown",
+    "birthYear": "2015",
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+  },
+  {
+    "name": "Nala",
+    "species": "Cat",
+    "breed": "Unknown",
+    "birthYear": "2016",
+    "photo": "images/sp.jpeg"
+  },
+  {
+    "name": "Titan",
+    "species": "Dog",
+    "breed": "American Pit Bull Terrier",
+    "birthYear": "2016",
+    "photo": "https://scontent-lhr.xx.fbcdn.net/v/t1.0-9/29315314_1657976550938307_6708555529838395392_n.jpg?_nc_eui2=v1%3AAeFCxF7MC_GzfCRTPyd72b1cIasR3kFaEngGzW3BrWXjKiTVKHs4TDVtCN9poQ0XcIcqCujn6sarCAhh11ShW_cPUhyWj34F-DM6C_1asgXR_g&oh=ed1f6e19be33f376ff32849c49f153f6&oe=5B314561"
+  },
+  {
+    "name": "Gaia",
+    "species": "Dog",
+    "breed": "American Pit Bull Terrier",
+    "birthYear": "2016",
+    "photo": "https://scontent-lhr.xx.fbcdn.net/v/t1.0-9/19554919_1407281369341161_8029612229495648270_n.jpg?_nc_eui2=v1%3AAeErVetaUl7L4M1X_FOxrC4dUVzE4ss__BnhKDayG2x-4i5CsVZlMFUBim_m_3_8mVI9QogJPEhGiwEifJTwrfBerXI24ql_mnNs96IP_VL54w&oh=109aef3289951520943abacec33f3c1d&oe=5B3909D4"
+  },
+  {
+    "name": "Amynta",
+    "species": "Dog",
+    "breed": "American Pit Bull Terrier",
+    "birthYear": "2016",
+    "photo": "https://scontent-lhr.xx.fbcdn.net/v/t31.0-8/15844199_1235078843228082_2093855758573318303_o.jpg?_nc_eui2=v1%3AAeGBFrHvsLHFiEwihak42vlpag09ggRPVfZmGr31RMm3JjHDxFCT03JQisjNGj2ORB02suQFH-ssVExBrMjnvXdxndo8xa9TFqm--GcH5LjNfA&oh=7c7c9f876e4e6710895c513361762e0e&oe=5B3853BE"
+  },
+  {
+    "name": "Ghost",
+    "species": "Dog",
+    "breed": "Dire Wolf",
+    "birthYear": "2015",
+    "photo": "http://41.77.4.165/hdwarena.com/wp-content/uploads/2018/01/Best-White-Wolf.jpg"
+  },
+  {
+    "name": "Phelps",
+    "species": "Fish",
+    "breed": "Goldfish",
+    "birthYear": "2018",
+    "photo": "https://petsofun.com/wp-content/uploads/2017/07/pregnant-goldfish-2.jpg"
+  }
+]
